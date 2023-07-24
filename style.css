@@ -1,0 +1,28 @@
+p {
+    font-size: 30px;
+    color: rgb(0, 40, 73);
+    text-align: center;
+    font-family: Lucida Handwriting;
+}
+
+body {
+    background-color: rgb(226, 236, 255);
+    text-align: center;
+}
+
+h3{
+    color: rgb(0, 40, 73);
+    text-align: center;
+    font-family: Lucida Handwriting;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(106, 166, 255);
+}
+
+h1{
+    text-align: center;
+    color: rgb(5, 0, 75);
+}
